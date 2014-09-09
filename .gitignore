@@ -17,3 +17,6 @@
 
 # Ignore npm modules
 /node_modules
+
+# Ignore bower components
+/vendor/assets/components
