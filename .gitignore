@@ -20,3 +20,6 @@
 
 # Ignore bower components
 /vendor/assets/components
+
+# Ignore autogenerate application.js
+/app/assets/javascripts/application.js
